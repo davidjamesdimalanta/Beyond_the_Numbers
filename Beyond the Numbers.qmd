@@ -4,6 +4,10 @@ author: "David James Dimalanta"
 date: "2024-03-13"
 bibliography: references.bib
 format: pdf
+thanks: "Code and data are available at:https://github.com/davidjamesdimalanta/Beyond_the_Numbers/tree/main"
+number-sections: true
+toc: true
+abstract: "In an era dominated by the allure of big data and advanced analytics, the perception of data as a neutral arbiter of truth persists, underpinned by the belief that data, when allowed to 'speak for themselves,' can offer clear, unbiased insights into our complex world. This paper challenges this notion by arguing for the indispensability of context in data interpretation. By highlighting the nuances of data science—a field often misconstrued as purely objective—this paper advocates for a more ethical, informed, and context-aware approach to data analysis. The synthesis of these perspectives illuminates the urgent need for a data science practice that is critically engaged, ethically grounded, and contextually informed, thereby moving beyond mere numbers to uncover the rich, contextualized insights that data can offer."
 ---
 
 # Introduction
