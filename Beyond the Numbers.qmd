@@ -7,7 +7,7 @@ format: pdf
 ---
 
 # Introduction
-The advent of big data and advanced analytics has brought with it a pervasive belief in the power of data to provide objective insights into our complex world. This belief hinges on the notion that data, if left to "speak for themselves," can offer clear, unbiased truths. Yet, this paper argues that such a view is not only simplistic but potentially dangerous. Drawing on the insights of scholars like Randy Au, Michael I. Jordan, and others, I delve into the debate surrounding the autonomy of data in revealing truths, advocating for a balanced approach that recognizes the indispensable role of context in data interpretation.
+The advent of big data and advanced analytics has brought with it a pervasive belief in the power of data to provide objective insights into our complex world. This belief hinges on the notion that data, if left to "speak for themselves," can offer clear, unbiased truths. Yet, this paper argues that such a view is not only simplistic but potentially dangerous. Drawing on the insights of scholars like Randy Au, Michael I. Jordan, and others, I, along with the help of my peer Harrison Huang, delve into the debate surrounding the autonomy of data in revealing truths, advocating for a balanced approach that recognizes the indispensable role of context in data interpretation.
 
 # The Illusion of Neutral Data and the Necessity of Context
 
